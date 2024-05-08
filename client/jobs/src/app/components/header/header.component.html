@@ -1,0 +1,33 @@
+<div id="header">
+    <div id="userDetailsInHeader">
+        <!-- *ngIf="currentUserDetails&&getField()&&numOfCv"> -->
+        <div id="currentUser" [(ngModel)]="currentUserDetails.userName">currentUser: {{currentUserDetails.userName}}
+        </div>
+        <button>
+            <div id="jobField" (click)="navigateToJobs()">jobField: {{getField()}}</div>
+        </button>
+        <div id="numOfCv">{{numOfCv | async}}</div>
+    </div>
+    <img src="../assets/Screenshot 2024-05-07 160018.png" (click)="navigateToLogin()" width="100 px">
+</div>
+<router-outlet></router-outlet>
+<div id="footer">
+    <div id="conect">
+
+        <div id="Keep-in-touch">
+            <h3>שומרים על קשר</h3>
+            <p>התקשרו או כתבו אלינו</p>
+            <div>
+                <div> <i class="fas fa-phone-alt"></i>
+                    <p>טלפון: 050-1231231</p>
+                </div>
+                <div> <i class="fas fa-envelope"></i>
+                    <p>אימייל: jobs&#64;gmail.com</p>
+                </div>
+                <div> <i class="fas fa-home"></i>
+                    <p>Tzivya Fireman</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

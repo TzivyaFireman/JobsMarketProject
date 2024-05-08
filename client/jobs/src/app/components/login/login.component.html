@@ -1,0 +1,9 @@
+<h1>login</h1>
+<form (ngSubmit)="saveUser()">
+    <label for="name">your name</label><br><br>
+    <input type="text" id="name" name="name" required [(ngModel)]="user.UserName"><br><br>
+    <label for="password">your password</label><br><br>
+    <input type="password" id="password" name="password" required [(ngModel)]="user.Password"><br><br>
+    <button type="submit">sign in</button>
+</form>
+<router-outlet></router-outlet>

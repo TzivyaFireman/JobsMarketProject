@@ -1,0 +1,53 @@
+//header
+
+#header{
+    background-color: rgb(196, 218, 225);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+    margin-bottom: 50px;
+}
+
+#userDetailsInHeader{
+    width: 50%;
+    align-items: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 900;
+    color: rgb(80, 103, 117);
+    padding: 5%;
+}
+
+//footer
+body {
+    direction: rtl;
+    margin-top: 140px;
+}
+
+#conect {
+    border: solid black 0.5px;
+    margin: 5% 10px 30px 10px;
+    text-align: center;
+    background: hsl(0, 0%, 96%);
+}
+
+
+#Keep-in-touch>div {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 10px;
+}
+
+#Keep-in-touch>div>div {
+    display: flex;
+    align-items: center;
+}
+
+#Keep-in-touch>div>div>p {
+    /* padding: 0; */
+    margin: 0;
+}
+
+#Keep-in-touch>p {
+    font-weight: 500;
+}
