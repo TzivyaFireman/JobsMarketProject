@@ -18,9 +18,11 @@ import { BoldNameDirective } from './directives/bold-name.directive';
 
 
 const ROUTES: Routes = [
-  { path: "login", component: LoginComponent },
+  { path: '', redirectTo: '/login', pathMatch: 'full' } ,// ניתוב ברירת מחדל
   { path: "jobDetails", component: JobDetailsComponent },
-  { path: "jobs/:jobField", component: JobListComponent }
+  { path: "jobs/:jobField", component: JobListComponent },
+  { path: "header", component: HeaderComponent },
+  { path: "login", component: LoginComponent }
 ]
 
 @NgModule({

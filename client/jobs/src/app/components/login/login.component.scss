@@ -1,0 +1,43 @@
+#backgroundImage {
+    width: 30%;
+    opacity: 0.3;
+    margin-right: 30px;
+}
+
+#loginTitle {
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#userLogin {
+    display: flex;
+    justify-content: left;
+    margin-top: 70px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+#userForm {
+    display: flex;
+    flex-direction: column;
+}
+#submitButton{
+    width: 30%;
+    margin: auto;
+    border-radius: 10px;
+    padding: auto;
+}
+.button {
+    background-color: rgb(179, 194, 202);
+    width: 100%;
+    height: 20px;
+    border:2px rgb(47, 99, 123) solid;
+    border-radius: 10px;
+}
+.button:hover {
+    background-color: rgb(213, 221, 226);
+    width: 100%;
+    height: 20px;
+}

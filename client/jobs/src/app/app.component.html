@@ -206,5 +206,7 @@
     </div>
   </div>
 <router-outlet></router-outlet> -->
-<!-- <app-login></app-login> -->
-<router-outlet></router-outlet>
+<ng-container *ngIf="isUserLoggedIn()">
+  <app-header></app-header>
+</ng-container>
+<!-- <router-outlet></router-outlet> -->

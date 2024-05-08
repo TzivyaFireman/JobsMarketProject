@@ -11,7 +11,6 @@ import { FormsModule } from '@angular/forms';
 })
 export class LoginComponent {
   constructor(private loginService: LoginService) {
-    alert(";;")
   }
   user: User = {
     Id: "",
