@@ -1,10 +1,10 @@
 <div id="header">
     <div id="userDetailsInHeader">
         <!-- *ngIf="currentUserDetails&&getField()&&numOfCv"> -->
-        <div id="currentUser" [(ngModel)]="currentUserDetails.userName">currentUser: {{currentUserDetails.userName}}
+        <div id="currentUser"  [(ngModel)]="currentUserDetails.userName">currentUser: {{currentUserDetails.userName}}
         </div>
         <button>
-            <div id="jobField" (click)="navigateToJobs()">jobField: {{getField()}}</div>
+            <div id="jobField" appBoldName (click)="navigateToJobs()">jobField: {{getField()}}</div>
         </button>
         <div id="numOfCv">{{numOfCv | async}}</div>
     </div>

@@ -14,6 +14,7 @@ import { JobListService } from './services/job-list.service';
 import { LoginService } from './services/login.service';
 import { HeaderComponent } from './components/header/header.component';
 import { JobService } from './services/job.service';
+import { BoldNameDirective } from './directives/bold-name.directive';
 
 
 const ROUTES: Routes = [
@@ -29,7 +30,8 @@ const ROUTES: Routes = [
     JobListComponent,
     LoginComponent,
     JobDetailsComponent,
-    HeaderComponent
+    HeaderComponent,
+    BoldNameDirective
   ],
   imports: [
     HttpClientModule,
