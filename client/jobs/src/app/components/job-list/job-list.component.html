@@ -1,22 +1,23 @@
+<div class="filters">
+  <label for="jobFieldFilter">Job Field:</label>
+  <select id="jobFieldFilter" [(ngModel)]="selectedJobField" (change)="applyJobFieldFilters()">
+    <option value="">All</option>
+    <option *ngFor="let field of jobFields" [value]="field">{{ field }}</option>
+  </select>
+  
+  <label for="areaFilter">Area:</label>
+  <select id="areaFilter" [(ngModel)]="selectedArea" (change)="applyAreaFilters()">
+    <option value="">All</option>
+    <option *ngFor="let area of areas" [value]="area">{{ area }}</option>
+  </select>
+</div> 
+
 <div id="jobs" *ngFor="let j of filteredJobs">
 <app-job [_jobData]=j></app-job>
 </div>
 
 
 
- <div class="filters">
-    <label for="jobFieldFilter">Job Field:</label>
-    <select id="jobFieldFilter" [(ngModel)]="selectedJobField" (change)="applyJobFieldFilters()">
-      <option value="">All</option>
-      <option *ngFor="let field of jobFields" [value]="field">{{ field }}</option>
-    </select>
-    
-    <label for="areaFilter">Area:</label>
-    <select id="areaFilter" [(ngModel)]="selectedArea" (change)="applyAreaFilters()">
-      <option value="">All</option>
-      <option *ngFor="let area of areas" [value]="area">{{ area }}</option>
-    </select>
-  </div> 
   
 
 

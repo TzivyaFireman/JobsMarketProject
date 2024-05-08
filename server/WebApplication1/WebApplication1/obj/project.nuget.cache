@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4A7wUYXmx0Ebt8sjsF6eePKtKYIhfuu6SAEcuOPXqu+O9n7vbGqEThZo/wgVPgPxnJANNUn2mXposFY6hUn1SQ==",
+  "dgSpecHash": "f45rpw8fe7DdJVLWb0jBx+0PpmHBYxDgG7osvXBBYyFAHX4bf22NhTnGgqS/DuGik2DQzbw2noODtga+6Ozocw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\1\\Desktop\\יד\\אנגולר\\הפרויקט\\server\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\Users\\1\\Desktop\\יד\\אנגולר\\הפרויקט\\זמנית בשביל גיט\\JobsMarketProject\\server\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\1\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\1\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

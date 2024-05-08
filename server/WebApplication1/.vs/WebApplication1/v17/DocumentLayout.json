@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\1\\Desktop\\\u05D9\u05D3\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\server\\WebApplication1\\",
+  "WorkspaceRootPath": "C:\\Users\\1\\Desktop\\\u05D9\u05D3\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\\u05D6\u05DE\u05E0\u05D9\u05EA \u05D1\u05E9\u05D1\u05D9\u05DC \u05D2\u05D9\u05D8\\JobsMarketProject\\server\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C2631591-D153-4FCE-B409-F1755A21909D}|WebApplication1\\WebApplication1.csproj|c:\\users\\1\\desktop\\\u05D9\u05D3\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\server\\webapplication1\\webapplication1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C2631591-D153-4FCE-B409-F1755A21909D}|WebApplication1\\WebApplication1.csproj|c:\\users\\1\\desktop\\\u05D9\u05D3\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\\u05D6\u05DE\u05E0\u05D9\u05EA \u05D1\u05E9\u05D1\u05D9\u05DC \u05D2\u05D9\u05D8\\jobsmarketproject\\server\\webapplication1\\webapplication1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2631591-D153-4FCE-B409-F1755A21909D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2631591-D153-4FCE-B409-F1755A21909D}|WebApplication1\\WebApplication1.csproj|c:\\users\\1\\desktop\\\u05D9\u05D3\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\server\\webapplication1\\webapplication1\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C2631591-D153-4FCE-B409-F1755A21909D}|WebApplication1\\WebApplication1.csproj|c:\\users\\1\\desktop\\\u05D9\u05D3\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\\u05D6\u05DE\u05E0\u05D9\u05EA \u05D1\u05E9\u05D1\u05D9\u05DC \u05D2\u05D9\u05D8\\jobsmarketproject\\server\\webapplication1\\webapplication1\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2631591-D153-4FCE-B409-F1755A21909D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2631591-D153-4FCE-B409-F1755A21909D}|WebApplication1\\WebApplication1.csproj|c:\\users\\1\\desktop\\\u05D9\u05D3\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\server\\webapplication1\\webapplication1\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C2631591-D153-4FCE-B409-F1755A21909D}|WebApplication1\\WebApplication1.csproj|c:\\users\\1\\desktop\\\u05D9\u05D3\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\\u05D6\u05DE\u05E0\u05D9\u05EA \u05D1\u05E9\u05D1\u05D9\u05DC \u05D2\u05D9\u05D8\\jobsmarketproject\\server\\webapplication1\\webapplication1\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2631591-D153-4FCE-B409-F1755A21909D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2631591-D153-4FCE-B409-F1755A21909D}|WebApplication1\\WebApplication1.csproj|c:\\users\\1\\desktop\\\u05D9\u05D3\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\server\\webapplication1\\webapplication1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C2631591-D153-4FCE-B409-F1755A21909D}|WebApplication1\\WebApplication1.csproj|c:\\users\\1\\desktop\\\u05D9\u05D3\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\\u05D6\u05DE\u05E0\u05D9\u05EA \u05D1\u05E9\u05D1\u05D9\u05DC \u05D2\u05D9\u05D8\\jobsmarketproject\\server\\webapplication1\\webapplication1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2631591-D153-4FCE-B409-F1755A21909D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2631591-D153-4FCE-B409-F1755A21909D}|WebApplication1\\WebApplication1.csproj|c:\\users\\1\\desktop\\\u05D9\u05D3\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\server\\webapplication1\\webapplication1\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C2631591-D153-4FCE-B409-F1755A21909D}|WebApplication1\\WebApplication1.csproj|c:\\users\\1\\desktop\\\u05D9\u05D3\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\\u05D6\u05DE\u05E0\u05D9\u05EA \u05D1\u05E9\u05D1\u05D9\u05DC \u05D2\u05D9\u05D8\\jobsmarketproject\\server\\webapplication1\\webapplication1\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2631591-D153-4FCE-B409-F1755A21909D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2631591-D153-4FCE-B409-F1755A21909D}|WebApplication1\\WebApplication1.csproj|c:\\users\\1\\desktop\\\u05D9\u05D3\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\server\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{C2631591-D153-4FCE-B409-F1755A21909D}|WebApplication1\\WebApplication1.csproj|c:\\users\\1\\desktop\\\u05D9\u05D3\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\\u05D6\u05DE\u05E0\u05D9\u05EA \u05D1\u05E9\u05D1\u05D9\u05DC \u05D2\u05D9\u05D8\\jobsmarketproject\\server\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C2631591-D153-4FCE-B409-F1755A21909D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2631591-D153-4FCE-B409-F1755A21909D}|WebApplication1\\WebApplication1.csproj|c:\\users\\1\\desktop\\\u05D9\u05D3\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\server\\webapplication1\\webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{C2631591-D153-4FCE-B409-F1755A21909D}|WebApplication1\\WebApplication1.csproj|c:\\users\\1\\desktop\\\u05D9\u05D3\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\\u05D6\u05DE\u05E0\u05D9\u05EA \u05D1\u05E9\u05D1\u05D9\u05DC \u05D2\u05D9\u05D8\\jobsmarketproject\\server\\webapplication1\\webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C2631591-D153-4FCE-B409-F1755A21909D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2631591-D153-4FCE-B409-F1755A21909D}|WebApplication1\\WebApplication1.csproj|c:\\users\\1\\desktop\\\u05D9\u05D3\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\server\\webapplication1\\webapplication1\\webapplication1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "AbsoluteMoniker": "D:0:0:{C2631591-D153-4FCE-B409-F1755A21909D}|WebApplication1\\WebApplication1.csproj|c:\\users\\1\\desktop\\\u05D9\u05D3\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\\u05D6\u05DE\u05E0\u05D9\u05EA \u05D1\u05E9\u05D1\u05D9\u05DC \u05D2\u05D9\u05D8\\jobsmarketproject\\server\\webapplication1\\webapplication1\\webapplication1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
       "RelativeMoniker": "D:0:0:{C2631591-D153-4FCE-B409-F1755A21909D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
     }
   ],
@@ -48,9 +48,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "JobsController.cs",
-              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D9\u05D3\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\server\\WebApplication1\\WebApplication1\\Controllers\\JobsController.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D9\u05D3\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\\u05D6\u05DE\u05E0\u05D9\u05EA \u05D1\u05E9\u05D1\u05D9\u05DC \u05D2\u05D9\u05D8\\JobsMarketProject\\server\\WebApplication1\\WebApplication1\\Controllers\\JobsController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\JobsController.cs",
-              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D9\u05D3\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\server\\WebApplication1\\WebApplication1\\Controllers\\JobsController.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D9\u05D3\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\\u05D6\u05DE\u05E0\u05D9\u05EA \u05D1\u05E9\u05D1\u05D9\u05DC \u05D2\u05D9\u05D8\\JobsMarketProject\\server\\WebApplication1\\WebApplication1\\Controllers\\JobsController.cs",
               "RelativeToolTip": "WebApplication1\\Controllers\\JobsController.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -60,9 +60,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Job.cs",
-              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D9\u05D3\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\server\\WebApplication1\\WebApplication1\\Models\\Job.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D9\u05D3\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\\u05D6\u05DE\u05E0\u05D9\u05EA \u05D1\u05E9\u05D1\u05D9\u05DC \u05D2\u05D9\u05D8\\JobsMarketProject\\server\\WebApplication1\\WebApplication1\\Models\\Job.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\Job.cs",
-              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D9\u05D3\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\server\\WebApplication1\\WebApplication1\\Models\\Job.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D9\u05D3\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\\u05D6\u05DE\u05E0\u05D9\u05EA \u05D1\u05E9\u05D1\u05D9\u05DC \u05D2\u05D9\u05D8\\JobsMarketProject\\server\\WebApplication1\\WebApplication1\\Models\\Job.cs",
               "RelativeToolTip": "WebApplication1\\Models\\Job.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -72,9 +72,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D9\u05D3\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\server\\WebApplication1\\WebApplication1\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D9\u05D3\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\\u05D6\u05DE\u05E0\u05D9\u05EA \u05D1\u05E9\u05D1\u05D9\u05DC \u05D2\u05D9\u05D8\\JobsMarketProject\\server\\WebApplication1\\WebApplication1\\Models\\User.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D9\u05D3\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\server\\WebApplication1\\WebApplication1\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D9\u05D3\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\\u05D6\u05DE\u05E0\u05D9\u05EA \u05D1\u05E9\u05D1\u05D9\u05DC \u05D2\u05D9\u05D8\\JobsMarketProject\\server\\WebApplication1\\WebApplication1\\Models\\User.cs",
               "RelativeToolTip": "WebApplication1\\Models\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -84,9 +84,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D9\u05D3\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\server\\WebApplication1\\WebApplication1\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D9\u05D3\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\\u05D6\u05DE\u05E0\u05D9\u05EA \u05D1\u05E9\u05D1\u05D9\u05DC \u05D2\u05D9\u05D8\\JobsMarketProject\\server\\WebApplication1\\WebApplication1\\appsettings.json",
               "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
-              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D9\u05D3\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\server\\WebApplication1\\WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D9\u05D3\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\\u05D6\u05DE\u05E0\u05D9\u05EA \u05D1\u05E9\u05D1\u05D9\u05DC \u05D2\u05D9\u05D8\\JobsMarketProject\\server\\WebApplication1\\WebApplication1\\appsettings.json",
               "RelativeToolTip": "WebApplication1\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -96,9 +96,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D9\u05D3\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\server\\WebApplication1\\WebApplication1\\Controllers\\UserController.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D9\u05D3\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\\u05D6\u05DE\u05E0\u05D9\u05EA \u05D1\u05E9\u05D1\u05D9\u05DC \u05D2\u05D9\u05D8\\JobsMarketProject\\server\\WebApplication1\\WebApplication1\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D9\u05D3\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\server\\WebApplication1\\WebApplication1\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D9\u05D3\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\\u05D6\u05DE\u05E0\u05D9\u05EA \u05D1\u05E9\u05D1\u05D9\u05DC \u05D2\u05D9\u05D8\\JobsMarketProject\\server\\WebApplication1\\WebApplication1\\Controllers\\UserController.cs",
               "RelativeToolTip": "WebApplication1\\Controllers\\UserController.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -109,9 +109,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "WebApplication1",
-              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D9\u05D3\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\server\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D9\u05D3\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\\u05D6\u05DE\u05E0\u05D9\u05EA \u05D1\u05E9\u05D1\u05D9\u05DC \u05D2\u05D9\u05D8\\JobsMarketProject\\server\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
               "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
-              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D9\u05D3\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\server\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D9\u05D3\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\\u05D6\u05DE\u05E0\u05D9\u05EA \u05D1\u05E9\u05D1\u05D9\u05DC \u05D2\u05D9\u05D8\\JobsMarketProject\\server\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
               "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-04-08T14:31:48.065Z"
@@ -120,9 +120,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D9\u05D3\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\server\\WebApplication1\\WebApplication1\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D9\u05D3\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\\u05D6\u05DE\u05E0\u05D9\u05EA \u05D1\u05E9\u05D1\u05D9\u05DC \u05D2\u05D9\u05D8\\JobsMarketProject\\server\\WebApplication1\\WebApplication1\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "WebApplication1\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D9\u05D3\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\server\\WebApplication1\\WebApplication1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D9\u05D3\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\\u05D6\u05DE\u05E0\u05D9\u05EA \u05D1\u05E9\u05D1\u05D9\u05DC \u05D2\u05D9\u05D8\\JobsMarketProject\\server\\WebApplication1\\WebApplication1\\Properties\\launchSettings.json",
               "RelativeToolTip": "WebApplication1\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -132,9 +132,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D9\u05D3\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\server\\WebApplication1\\WebApplication1\\Startup.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D9\u05D3\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\\u05D6\u05DE\u05E0\u05D9\u05EA \u05D1\u05E9\u05D1\u05D9\u05DC \u05D2\u05D9\u05D8\\JobsMarketProject\\server\\WebApplication1\\WebApplication1\\Startup.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Startup.cs",
-              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D9\u05D3\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\server\\WebApplication1\\WebApplication1\\Startup.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D9\u05D3\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\\u05D4\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\\u05D6\u05DE\u05E0\u05D9\u05EA \u05D1\u05E9\u05D1\u05D9\u05DC \u05D2\u05D9\u05D8\\JobsMarketProject\\server\\WebApplication1\\WebApplication1\\Startup.cs",
               "RelativeToolTip": "WebApplication1\\Startup.cs",
               "ViewState": "AQIAADoAAAAAAAAAAAAAAEoAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
